@@ -1,17 +1,15 @@
-# TASK RESULTS
+# Contact list
 
-## Display contact list
+[node index.js --action="list"](https://ibb.co/wgq103b)
 
-[node index.js --action list](https://ibb.co)
+# Get contact by id
 
-## Get contact by id
+[node index.js --action="get" --id 05olLMgyVQdWRwgKfg5J6](https://ibb.co/zFQJ012)
 
-[node index.js --action get --id AeHIrLTr6JkxGE6SN-0Rw](https://ibb.co)
+# Add contact
 
-## Add contact
+[node index.js --action="add" --name Mango --email mango@gmail.com --phone 322-22-22](https://ibb.co/gtZbndb)
 
-[node index.js --action add --name Ihor --email example@gmail.com --phone +380-50-111-22-33](https:/)
+# Remove contact
 
-## Remove contact
-
-[node index.js --action remove --id](https:/)
+[node index.js --action="remove" --id qdggE76Jtbfd9eWJHrssH](https://ibb.co/QjQTwMs)
